@@ -1,0 +1,12 @@
+{
+  "Battery": "Store safely and dispose at authorized hazardous waste collection points. Never throw in regular trash.",
+  "Keyboard": "Can be recycled at electronic waste centers. Check with local recyclers for drop-off.",
+  "Microwave": "Should be taken to an e-waste recycling center. Remove glass tray separately.",
+  "Mobile": "Erase personal data and drop off at mobile e-waste collection bins or return to retailer.",
+  "Mouse": "Small e-waste. Can be combined with other items and taken to an e-waste collection center.",
+  "PCB": "Contains hazardous materials. Must be processed by certified e-waste recyclers.",
+  "Player": "Can be refurbished or recycled. Take to e-waste facility or donation center.",
+  "Printer": "Remove ink cartridges before recycling. Can be dropped at authorized e-waste stations.",
+  "Television": "Do not throw in garbage. Contact an e-waste recycler for pickup or drop-off.",
+  "Washing Machine": "Large appliance. Call certified e-waste collection services for disposal."
+}
